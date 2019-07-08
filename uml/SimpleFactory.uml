@@ -3,47 +3,19 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="0.0" y="165.0">cn.org.snail.java.study.src020201.SimpleMobilePhoneFactory</node>
-    <node x="128.76785714285717" y="257.0">cn.org.snail.java.study.src020201.SimpleFactoryTest</node>
-    <node x="12.767857142857167" y="73.0">cn.org.snail.java.study.src020201.SimpleMobilePhone</node>
-    <node x="117.5" y="0.0">cn.org.snail.java.study.src020201.IMobilePhone</node>
+    <node x="0.0" y="253.0">cn.org.snail.java.study.src020201.SimpleFactoryTest</node>
+    <node x="0.0" y="73.0">cn.org.snail.java.study.src020201.SimpleMobilePhone</node>
+    <node x="17.5" y="0.0">cn.org.snail.java.study.src020201.IMobilePhone</node>
+    <node x="0.0" y="163.0">cn.org.snail.java.study.src020201.SimpleMobilePhoneFactory</node>
   </nodes>
   <notes />
   <edges>
     <edge source="cn.org.snail.java.study.src020201.SimpleMobilePhone" target="cn.org.snail.java.study.src020201.IMobilePhone">
-      <point x="0.0" y="-21.0" />
-      <point x="90.26785714285717" y="48.0" />
-      <point x="137.5" y="48.0" />
-      <point x="-40.0" y="11.5" />
-    </edge>
-    <edge source="cn.org.snail.java.study.src020201.SimpleMobilePhoneFactory" target="cn.org.snail.java.study.src020201.SimpleMobilePhone">
-      <point x="-66.75" y="-21.0" />
-      <point x="66.75" y="140.0" />
-      <point x="90.26785714285717" y="140.0" />
-      <point x="0.0" y="21.0" />
-    </edge>
-    <edge source="cn.org.snail.java.study.src020201.SimpleMobilePhoneFactory" target="cn.org.snail.java.study.src020201.IMobilePhone">
-      <point x="66.75" y="-21.0" />
-      <point x="200.25" y="140.0" />
-      <point x="178.26785714285717" y="140.0" />
+      <point x="0.0" y="-22.5" />
       <point x="0.0" y="11.5" />
     </edge>
-    <edge source="cn.org.snail.java.study.src020201.SimpleFactoryTest" target="cn.org.snail.java.study.src020201.IMobilePhone">
-      <point x="38.75" y="-21.0" />
-      <point x="245.01785714285717" y="232.0" />
-      <point x="277.5" y="232.0" />
-      <point x="277.5" y="48.0" />
-      <point x="217.5" y="48.0" />
-      <point x="40.0" y="11.5" />
-    </edge>
-    <edge source="cn.org.snail.java.study.src020201.SimpleFactoryTest" target="cn.org.snail.java.study.src020201.SimpleMobilePhoneFactory">
-      <point x="-38.75" y="-21.0" />
-      <point x="167.51785714285717" y="232.0" />
-      <point x="133.5" y="232.0" />
-      <point x="0.0" y="21.0" />
-    </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="142.0" y="149.5" />
+  <settings layout="Hierarchic Group" zoom="1.0" x="620.5" y="283.0" />
   <SelectedNodes />
   <Categories>
     <Category>Methods</Category>

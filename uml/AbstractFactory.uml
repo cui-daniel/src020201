@@ -3,57 +3,57 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="158.0" y="0.0">cn.org.snail.java.study.src020201.IFactory</node>
-    <node x="0.0" y="111.0">cn.org.snail.java.study.src020201.HuaweiFactory</node>
-    <node x="105.0" y="377.0">cn.org.snail.java.study.src020201.IMobilePhone</node>
-    <node x="0.0" y="450.0">cn.org.snail.java.study.src020201.LenovoMobilePhone</node>
-    <node x="0.0" y="290.0">cn.org.snail.java.study.src020201.HuaweiPersonalComputer</node>
-    <node x="122.5" y="217.0">cn.org.snail.java.study.src020201.IPersonalComputer</node>
-    <node x="375.0" y="377.0">cn.org.snail.java.study.src020201.AbstractFactoryTest</node>
-    <node x="316.0" y="111.0">cn.org.snail.java.study.src020201.LenovoFactory</node>
-    <node x="210.0" y="290.0">cn.org.snail.java.study.src020201.LenovoPersonalComputer</node>
-    <node x="175.0" y="450.0">cn.org.snail.java.study.src020201.HuaweiMobilePhone</node>
+    <node x="149.5" y="0.0">cn.org.snail.java.study.src020201.IFactory</node>
+    <node x="105.0" y="392.0">cn.org.snail.java.study.src020201.IMobilePhone</node>
+    <node x="0.0" y="117.0">cn.org.snail.java.study.src020201.HuaweiFactory</node>
+    <node x="0.0" y="465.0">cn.org.snail.java.study.src020201.LenovoMobilePhone</node>
+    <node x="0.0" y="302.0">cn.org.snail.java.study.src020201.HuaweiPersonalComputer</node>
+    <node x="122.5" y="229.0">cn.org.snail.java.study.src020201.IPersonalComputer</node>
+    <node x="375.0" y="392.0">cn.org.snail.java.study.src020201.AbstractFactoryTest</node>
+    <node x="299.0" y="117.0">cn.org.snail.java.study.src020201.LenovoFactory</node>
+    <node x="210.0" y="302.0">cn.org.snail.java.study.src020201.LenovoPersonalComputer</node>
+    <node x="175.0" y="465.0">cn.org.snail.java.study.src020201.HuaweiMobilePhone</node>
   </nodes>
   <notes />
   <edges>
     <edge source="cn.org.snail.java.study.src020201.HuaweiMobilePhone" target="cn.org.snail.java.study.src020201.IMobilePhone">
-      <point x="0.0" y="-21.0" />
-      <point x="252.5" y="425.0" />
-      <point x="195.0" y="425.0" />
+      <point x="0.0" y="-22.5" />
+      <point x="252.5" y="440.0" />
+      <point x="195.0" y="440.0" />
       <point x="30.0" y="11.5" />
     </edge>
-    <edge source="cn.org.snail.java.study.src020201.LenovoFactory" target="cn.org.snail.java.study.src020201.IFactory">
-      <point x="0.0" y="-30.5" />
-      <point x="464.0" y="86.0" />
-      <point x="380.0" y="86.0" />
-      <point x="74.0" y="30.5" />
-    </edge>
-    <edge source="cn.org.snail.java.study.src020201.LenovoPersonalComputer" target="cn.org.snail.java.study.src020201.IPersonalComputer">
-      <point x="0.0" y="-21.0" />
-      <point x="305.0" y="265.0" />
-      <point x="238.75" y="265.0" />
-      <point x="38.75" y="11.5" />
-    </edge>
     <edge source="cn.org.snail.java.study.src020201.LenovoMobilePhone" target="cn.org.snail.java.study.src020201.IMobilePhone">
-      <point x="0.0" y="-21.0" />
-      <point x="77.5" y="425.0" />
-      <point x="135.0" y="425.0" />
+      <point x="0.0" y="-22.5" />
+      <point x="77.5" y="440.0" />
+      <point x="135.0" y="440.0" />
       <point x="-30.0" y="11.5" />
     </edge>
     <edge source="cn.org.snail.java.study.src020201.HuaweiPersonalComputer" target="cn.org.snail.java.study.src020201.IPersonalComputer">
-      <point x="0.0" y="-21.0" />
-      <point x="95.0" y="265.0" />
-      <point x="161.25" y="265.0" />
+      <point x="0.0" y="-22.5" />
+      <point x="95.0" y="277.0" />
+      <point x="161.25" y="277.0" />
       <point x="-38.75" y="11.5" />
     </edge>
     <edge source="cn.org.snail.java.study.src020201.HuaweiFactory" target="cn.org.snail.java.study.src020201.IFactory">
-      <point x="0.0" y="-30.5" />
-      <point x="148.0" y="86.0" />
-      <point x="232.0" y="86.0" />
-      <point x="-74.0" y="30.5" />
+      <point x="0.0" y="-33.5" />
+      <point x="139.5" y="92.0" />
+      <point x="219.25" y="92.0" />
+      <point x="-69.75" y="33.5" />
+    </edge>
+    <edge source="cn.org.snail.java.study.src020201.LenovoFactory" target="cn.org.snail.java.study.src020201.IFactory">
+      <point x="0.0" y="-33.5" />
+      <point x="438.5" y="92.0" />
+      <point x="358.75" y="92.0" />
+      <point x="69.75" y="33.5" />
+    </edge>
+    <edge source="cn.org.snail.java.study.src020201.LenovoPersonalComputer" target="cn.org.snail.java.study.src020201.IPersonalComputer">
+      <point x="0.0" y="-22.5" />
+      <point x="305.0" y="277.0" />
+      <point x="238.75" y="277.0" />
+      <point x="38.75" y="11.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="335.5" y="79.0" />
+  <settings layout="Hierarchic Group" zoom="1.0" x="541.0" y="283.0" />
   <SelectedNodes>
     <node>cn.org.snail.java.study.src020201.LenovoFactory</node>
   </SelectedNodes>
